@@ -17,7 +17,7 @@ O projeto está totalmente integrado ao frontend em Angular.
 - **Spring Data JPA**
 - **Hibernate**
 - **Maven**
-- **Banco de dados:** PostgreSQL (ou outro que você estiver usando)
+- **Banco de dados:** H2Database (ou outro que você estiver usando)
 
 ---
 
